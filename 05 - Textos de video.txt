@@ -1,0 +1,112 @@
+
+D03 - 0:40
+INTERPRETACIÓN
+CONCEPTO & REGULACIÓN JURÍDICA
+
+Art. 12, 13, 14, 17, 18, 19 y 20 del Código Civil
+INTERPRETAR es "desentrañar, determinar, concretar, penetrar, fijar y descubrir el alcance de una norma jurídica”.
+Procede tanto ante normas oscuras, como a las aparentemente claras en su contenido.
+
+D04 02:39
+¿QUÉ NORMAS PUEDEN SER PASIBLES DE INTERPRETACIÓN?
+
+Leyes y cualquier acto legislativo emanado de un órgano estatal.
+Actos administrativos
+Sentencias
+Contratos (de acuerdo a las normas específicas previstas en el CC)
+
+D05 04:19
+TIPOS DE INTERPRETACIÓN
+
+- Oficial
+- Judicial
+- Doctrinaria
+
+D06 04:34
+A) INTERPRETACIÓN OFICIAL
+
+La realiza el Poder Legislativo.
+Art. 12 inc. 1 del CC: "Sólo toca al legislador explicar o interpretar la ley, de un modo generalmente obligatorio"
+Art. 13 del CC: "La interpretación auténtica o hecha por el legislador".
+
+Efecto: desde la fecha de la ley interpretada, pero no podrá aplicarse a los casos ya definitivamente concluidos
+
+D07 07:18
+B) INTERPRETACIÓN JUDICIAL
+
+Es la emanada por los jueces por el imperativo legal, con forma de sentencia y tiene efectos para el caso concreto a resolver.
+
+Art. 12 inc. 2 del CC: "Las sentencias judiciales no tienen fuerza obligatoria, sino respecto de las causas en que actualmente se pronunciaren".
+
+D08 08:55
+C) INTERPRETACIÓN DOCTRINARIA
+
+Es la que realizan estudiosos del derecho, juristas y operadores jurídicos en general, no tienen fuerza vinculante.
+No es obligatoria.
+
+D09 10:57
+ESCUELAS DE INTERPRETACIÓN
+
+CLÁSICA O TRADICIONAL (MÉTODO EXEGÉTICO)
+HISTÓRICO - EVOLUTIVA
+MÉTODO LÓGICO SISTEMÁTICA
+
+D10 11:31
+A) CLÁSICA O TRADICIONAL (MÉTODO EXEGÉTICO)
+
+Busca interpretar cuál fue la voluntad del legislador.
+Pone énfasis en los elementos literales o gramaticales del texto de la norma.
+
+Si la ley es
+- clara: no se puede eludir la letra
+- oscura: podrá recurrirse a medios auxiliares como ser trabajos preparatorios de la ley, exposición de motivos, discusiones parlamentarias, etc.
+
+D11 12:30
+B) HISTÓRICO-EVOLUTIVA
+
+Los preceptos legales deben ser transformados por el intérprete dentro de ciertos límites, para ponerlos en armonía con las circunstancias imperantes en el medio social.
+Interpretar es indagar, pero sin que ello implique derogar, argumentaban sus defensores. Al modificarse las condiciones sociales, el intérprete debe aplicar la norma consultando la realidad social entonces existente.
+
+D12 14:56
+C) MÉTODO LÓGICO SISTEMÁTICO
+
+La Ley se independiza de la voluntad del legislador que la creó.
+Predomina el análisis lógico de los textos, pero se podría explorar otras rutas que quizás ni siquiera fueron tenidas en cuenta por los creadores de la norma.
+Límite: no puede resultar contradictorio con el resto de las disposiciones del cuerpo normativo y del instituto jurídico de que se trate.
+
+D13 16:55
+INTEGRACION
+
+D14 17:14
+INTEGRACION
+CONCEPTO
+
+La Ley tiene lagunas, no es perfecta.
+Tendrá lugar cuando una cuestión no puede resolverse ni por las palabras o el espíritu de la ley.
+
+D15 18:41
+REGULACIÓN JURÍDICA
+
+Art. 15 CC: Los jueces no pueden dejar de fallar en materia civil, a pretexto de silencio, oscuridad o insuficiencia de las leyes.
+Art. 16 CC: "Cuando ocurra un negocio civil, que no pueda resolverse por las palabras ni por el espíritu de la ley de la materia, se acudirá a los fundamentos de las leyes análogas; y si todavía subsistiere la duda, se ocurrirá a los principios generales del derecho y a las doctrinas más recibidas, consideradas las circunstancias del caso"
+
+D16 20:14
+MECANISMOS DE INTEGRACIÓN
+
+ANALOGÍA: Consiste en atribuir a situaciones parcialmente similares (una prevista y otra no prevista por la Ley), las consecuencias jurídicas indicadas para el caso que el legislador tuvo en cuenta. No se aplica en materia penal ni tributaria.
+
+PRINCIPIOS GENERALES DEL DERECHO: Son las bases o pilares fundamentales de un sistema jurídico. Ej.: principio de igualdad ante las normas.
+
+DOCTRINA MÁS RECIBIDA: Son las opiniones de los especialistas más seguidas de una determinada rama del derecho.
+
+D17 27:11
+APLICACIÓN DE LA LEY EN EL TIEMPO
+
+D18 27:14
+CONCEPTO
+
+PRINCIPIO DE IRRETROACTIVIDAD (Art. 7 del CC)
+
+Las leyes no deben ser retroactivas
+
+Sin embargo, dado que en Uruguay la prohibición no fue establecida a nivel constitucional sino legal, el legislador puede conferir efecto retroactivo a una ley.

@@ -1,0 +1,22 @@
+
+# Archivos mp4
+*.mp4
+
+# Archivos m4v
+*.m4v
+
+# Archivos m4a
+*.m4a
+
+# Archivos pptx
+*.pptx
+
+# Archivos pdf
+*.pdf
+
+# Archivos docx - doc
+*.doc
+*.docx
+
+# Carpeta LR
+/LR/

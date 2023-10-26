@@ -8,6 +8,9 @@
 # Archivos m4a
 *.m4a
 
+# Archivos webm
+*.webm
+
 # Archivos pptx
 *.pptx
 

@@ -1,0 +1,117 @@
+22 - Estado Civil
+
+00:22 D01 - Estado Civil [T]
+
+05:00 D02 - Concepto
+
+Calidad de un individuo que lo habilita para ejercer ciertos derechos y obligaciones.
+Confunde con capacidad
+Estado de familia en que se encuentra colocado  un individuo, en virtud de ciertos hechos o actos que ocurren en su vida, y  que generan derechos y obligaciones
+
+07:46 D03 - Fuentes
+
+Matrimonio
+Filiación
+
+08:20 D04 - Matrimonio
+
+Art. 81 y sig.
+Matrimonio civil ante funcionarios que desarrollan funciones de estado civil: Oficiales Registro estado civil y Jueces de Paz
+Cumpliendo el ritualismo que prevé la ley
+Matrimonio in extremis, art. 85 no surte efectos civiles hasta no sea declarado válido por el juez competente, art. 87
+
+12:15 D05 - Matrimonio [cont] 
+
+Estado civil de cónyuges, afinidad, hijos legítimos
+Disolución , muerte o divorcio, estado civil de viudo o divorciado
+Consecuencias: deber recíproco de auxilio, fidelidad, cohabitación, sociedad  conyugal, salvo capitulaciones matrimoniales, porción conyugal
+
+: D06 - Unión concubinaria. Ley 18.246
+
+Situación de parejas heterosexuales u homosexuales que han convivido de forma ininterrumpida, durante al menor 5 años, sin vínculo matrimonial
+Convivencia, 2 años genera obligación de alimentos
+
+: D07 - Consecuencias
+
+Auxilios recíprocos y contribución gastos del hogar, durante y luego de disuelta la unión.
+Acción de declaratoria judicial de reconocimiento de la unión, sociedad de bienes, salvo que hayan pactado otro régimen Art. 4
+Derechos hereditarios a favor del concubino que comparte con cónyuge sobreviviente, y se divide en proporción al tiempo que duró convivencia. 
+Derecho de habitación
+
+: D08 - Filiación
+
+Lazo de descendencia entre dos personas
+Concepción a través de unión carnal de progenitores, dependiendo que haya matrimonio será legítima o natural
+Que surja de una ficción, como en el caso de la adopción
+
+: D09 - Parentesco por consanguineidad
+
+Procreación, vínculo que une dos personas que desciende una de otra, o ambas descienden de un tronco común
+Art. 1015 se mide por líneas y éstas por grados
+Línea recta o colateral
+Matrimonial o extramatrimonial
+
+: D10 - Parentesco por afinidad
+
+Vínculo que une a cada uno de los cónyuges con los parientes consanguíneos del otro
+Línea recta o colateral
+Cómputo por grados de parentesco
+
+: D11 - Caracteres del estado civil
+
+Inherente a la persona humana
+Estabilidad
+Indisponibilidad, inalienable e intransmisible
+Normas de carácter imperativo e inderogables. Orden público
+Irrenunciabilidad
+Imprescriptibilidad
+Principio de no contradicción
+Extrapatrimonialidad
+
+: D12 - Registro de Estado Civil
+
+Tres períodos
+	Hasta 1869, los registros eran llevados por curas párrocos
+	Desde 1869 hasta 1879, católicos los registros eran llevados por curas párrocos y no católicos certificados de Alcaldes Ordinarios, en base a partidas Jueces de Paz
+	Ley 1430 de 1879 secularización de Registro de Estado Civil
+
+: D13 - Registro de Estado Civil [cont]
+
+Oficial del Registro estado civil o Jueces de Paz que desempeñan funciones de estado civil inscribe nacimientos, matrimonios, defunciones y reconocimientos de hijos naturales
+Llevan 8 libros, se abren el 1 enero y cierran 31 de diciembre
+Registro de documentos provenientes del extranjero
+
+: D14 - Prueba principal del Estado Civil
+
+Actas o Partidas de estado civil
+Otros documentos públicos: sentencias judiciales o documentos otorgados por Escribano Público
+Hacen plena fe en cuanto al hecho de haberse otorgado y su fecha, y además su contenido
+
+: D15 - Documentos probatorios
+
+Cónyuge, partida de matrimonio
+Viudo, testimonio partida de matrimonio y de defunción del fallecido
+Divorcio, testimonio partida matrimonio y sentencia de divorcio
+Hijo, padre legítimo, partida matrimonio y nacimiento
+Hijo natural, partida nacimiento, y reconocimiento, primera copia escritura reconocimiento, sentencia
+
+: D16 - Notas marginales
+
+Anotaciones marginales en las partidas
+Se mantienen actualizados los estados  civiles de las personas
+Corrección de los errores al labrar la partida
+Valor accesorio e informativo
+
+: D17 - Rectificación de partidas. [A CC 78]
+
+Las alteraciones, rectificaciones o adiciones, sea de cualquier naturaleza, sólo pueden efectuarse en virtud de sentencia pasada en autoridad de cosa juzgada, y mediante anotaciones al margen de la partida que se modifica
+Rectificación por falsedad, el suceso registrado no tuvo lugar, por enmienda, solicita variar nombre u otra circunstancia, esencial o accidental
+Dto. 64/977 admite Dirección R. EC modificaciones por resolución administrativa
+
+: D18 - Prueba supletoria de Estado Civil
+
+Condiciones: que no existan registros o asientos, o es imposible procurarse de ellos, y hecho registrable que se pruebe por los medios del art. 44
+Se debe respetar la jerarquía de los mismos, y son:
+Otros documentos auténticos
+Declaraciones de testigos
+Posesión notoria de estado civil: trato, fama y tiempo

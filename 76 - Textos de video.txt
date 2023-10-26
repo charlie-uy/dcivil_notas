@@ -1,14 +1,34 @@
 Compraventa
-VIdeo 76
+Video 76
 
 01:16 Inicio
 
 01:20 Definición de compraventa [1661 CC]
-Referecia a [705 CC]
+Referencia a [705 CC] modo tradición
 
-: Caracteres
+03:50 Caracteres
+Bilateral, oneroso, commutativo, principal, consensual (en los casos establecidos a texto expreso de forma solemne [1664 CC]
+
+12:05 Elementos esenciales para la validez del contrato
+12:43 a - Objeto [1668]
+14:22 b - Causa
+14:56 c - Capacidad
+16:20 d - Legitimación [1675 - 1679 CC]
+
+20:00: Efectos inmediatos
+20:00 a - Obligaciones del vendedor [1686, 1727 CC]
+		- Entrega de la cosas en el lugar y plazo convenido en estado que se hallaba al tiempo del contrato [1687 - 1689 CC]
+		- Gastos [1695, 1673 CC]
+		- Saneamiento [1696 CC]
+			- Por evicción [1697, 1717, 1706 CC]
+			- Por defectos ocultos o vicios redhibitorios [1718,1727 CC]
+
+27:33 b - Obligaciones del comprador [1728 - 1735 CC]
+		- Pagar el precio estipulado en el contrato
+		
+29:05 Pactos accesorios al contrato de compraventa [1736 - 1754 CC]
+29:35 Pacto comisorio [1737 - 1741 CC]
+33:05 Pacto de mejor comprador [1742 -m 1747 CC]
 :
-:
-:
-:
-:
+ 
+ Continuar en minuto 34

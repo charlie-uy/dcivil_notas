@@ -3,7 +3,7 @@
 
 ### 00:30 - D01 Mandato###
 
-### : - D02 Concepto###
+### 02:30 - D02 Concepto###
 
 [2051 CC] Contrato mediante el cual una de las partes confiere a otra, que lo acepta, el poder para representarla en la gestión de uno o más negocios por cuenta y riesgo de la primera
 
@@ -11,16 +11,16 @@ El obrar jurídico de una persona no proyecta sus consecuencias sobre el patrimo
 
 **Elementos**
 
-- Poder, puede ser conferido por el interesado en ser representado, voluntaria, o por ley en el caso de Rep. Legales
+- Poder, puede ser conferido por el interesado en ser representado, voluntaria, o por ley en el caso de Representaciones Legales
 - Obrar a nombre ajeno
 
-### : - D03 Diferencias entre mandato y poder###
+### 06:50 - D03 Diferencias entre mandato y poder###
 
 - Mandato es un contrato, negocio jurídico bilateral, poder en un negocio jurídico unilateral, solo emana de la voluntad del poderdante, no requiere aceptación del representado
 - Mandato crea obligaciones, el poder en principio no
 - Caracteres, unilateral, solo crea obligaciones para el mandatario de ejecutar el encargo, puede ser bilateral si el mandante asume la obligación de remunerarlo por su encargo. Gratuito, [CC 2052] puede ser oneroso, principal, consensual, solemne el poder para pleitos.
 
-### : - D04 Capacidad###
+### 11:55 - D04 Capacidad###
 
 - **Mandatario:** mayores de edad, habilitados por matrimonio, menores púberes no habilitados por matrimonio
 - **Mandante:** capacidad para cumplir el acto para el cual se da el poder

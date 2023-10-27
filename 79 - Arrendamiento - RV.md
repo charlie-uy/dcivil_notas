@@ -64,7 +64,7 @@ reajustable mensual
 - Arrendamiento de bienes inmuebles, construcción posterior a 1968
 - Desocupación y finalización del contrato
 
-### : - D10 Arrendamiento de obra y de servicio ###
+### 27:05 - D10 Arrendamiento de obra y de servicio ###
 
 - Una de las partes, el arrendador se halla obligada a prestar un servicio, o realizar una obra y la otra, arrendatario se obliga a pagar por ese servicio un precio en dinero
 - Caracteres: bilateral, oneroso, conmutativo, consensual, principal
@@ -72,17 +72,29 @@ reajustable mensual
 - Capacidad, plena
 
 
-### : - D11 Responsabilidad decenal###
+### 31:03 - D11 Responsabilidad decenal###
 
 [1844 CC] El Arquitecto o empresario de un edificio son responsables durante 10 años si aquel se arruina en todo o en parte por vicio de la construcción del suelo o mala calidad de los materiales, salvo que se pruebe que los vicios se produjeron por causa extraña que no les es imputable.
 
-: D12
+### Agregado - D12 Ley 19.726###
 
-: D13
+- El nuevo artículo 1844, diferencia los plazos en los que el arquitecto, el ingeniero, el constructor y el empresario deben responder por una obra en función a la gravedad de
+vicios y defectos en la construcción.
+- La ley establece tres situaciones diferentes
 
-: D14
+### Agregado -  D13 Primera situación###
 
-: D15
+Vicios o defectos que, ya sea en todo o en parte, afecten la estabilidad o solidez, lo hagan impropio para el uso pactado expresa o tácitamente o para el uso a que normalmente se destina.
 
+En estos casos, la garantía se mantuvo por diez años contra el arquitecto, el ingeniero, el constructor y el
+empresario. Solo se exonerarán de la responsabilidad si acreditan que el vicio o defecto se produjo por causa extraña que no les fuere imputable.
 
-Continuar en 24.30
+### Agregado - D14 Segunda situación###
+
+Por los demás vicios o defectos, con excepción de los que solo afecten elementos de terminación o acabado de las obras. En estos casos el arquitecto, ingeniero, constructor y
+empresario serán responsables por el espacio de 5 años.
+
+### Agregado - D15 Tercera situación ###
+
+Por los vicios o defectos que solo afecten elementos de terminación y acabado de las obras. La garantía se mantendrá vigente si estos vicios se verifican dentro del plazo de 2
+años.

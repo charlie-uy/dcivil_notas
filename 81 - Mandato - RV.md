@@ -29,7 +29,7 @@ El obrar jurídico de una persona no proyecta sus consecuencias sobre el patrimo
 	- De acuerdo a su Extensión: generales o especiales, comprenden uno o más negocios
 	- En cuanto a su intensidad: Términos generales, solo comprende actos de administración; o con poder expreso para actos de disposición, enajenar, hipotecar o cualquier acto de riguroso dominio
 
-### : - D05 Efectos inmediatos###
+### 16:30 - D05 Efectos inmediatos###
 **Obligaciones del mandatario**
 
 - Cumplir el encargo [2064 CC]. Si no lo cumple, o lo cumple sin diligencia responde por los daños y perjuicios que cause al mandante. Dolo o culpa
@@ -40,18 +40,20 @@ El obrar jurídico de una persona no proyecta sus consecuencias sobre el patrimo
 - Sustitución del mandato [2067 CC]
 - Siempre que el mandante no lo haya prohibido
 
-### : - D06 Obligaciones del mandante. [2076 - 2085 CC]###
+### 22:55 - D06 Obligaciones del mandante. [2076 - 2085 CC]###
 
 - Responde por los actos del mandatario en cumplimiento del poder [2076 CC]
 - Anticipo de gastos para el cumplimiento del mandato [2079 CC]
 - Reembolso de gastos [2081 CC]
 - Pago de salario, siempre que el mandato sea oneroso
 
-### : - D07 Extinción del mandato [2086 CC]###
+### 24:08 - D07 Extinción del mandato [2086 CC]###
 - Cumplimiento de la gestión encargada
 - Vencimiento del plazo establecido como duración del mandato
 - Revocación por el mandante
 - Renuncia del mandatario
 - Muerte del mandante o del mandatario
 - Insolvencia del mandante o mandatario
+(Pertenece al régimen anterior del régimen de liquidación de sociedades aunque hay mecanismos parecidos es la Ley de Concursos)
 - Incapacidad sobreviniente de cualquiera de ellos
+

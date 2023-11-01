@@ -62,8 +62,6 @@ El pago por parte del fiador produce una triple consecuencia:
 
 ### 11:41 - D10 Caracteres de la fianza
 
-*Continuar observación video*
-
 - **Unilateral:** El acreedor en el contrato de fianza no se obliga, elúnico obligado es el fiador.
 - **Gratuito:** ya que el fiador no percibe ningún beneficio económico con su prestación por parte del acreedor, pero puede convertirse en un contrato oneroso en caso de que el fiador le cobre al acreedor por su prestación, conforme lo prevé [2104 CC].
 - **Accesorio:** De acuerdo a lo dispuesto en [2106 CC] este contrato supone necesariamente la existencia de una obligación principal, sin la cual no puede subsistir y a la que tiende a asegurar.

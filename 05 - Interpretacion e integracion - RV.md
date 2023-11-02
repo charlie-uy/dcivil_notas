@@ -27,87 +27,81 @@ Procede tanto ante normas oscuras, como a las aparentemente claras en su conteni
 
 La realiza el Poder Legislativo.
 
-[12-1 CC]: "Sólo toca al legislador explicar o interpretar la ley, de un modo generalmente obligatorio"
+[12i1 CC]: "Sólo toca al legislador explicar o interpretar la ley, de un modo generalmente obligatorio"
 
 [13 CC]: "La interpretación auténtica o hecha por el legislador".
 
 Efecto: desde la fecha de la ley interpretada, pero no podrá aplicarse a los casos ya definitivamente concluidos
 
-D07 07:18
-B) INTERPRETACIÓN JUDICIAL
+### 07:18 - D07 B) Interpretación judicial
 
 Es la emanada por los jueces por el imperativo legal, con forma de sentencia y tiene efectos para el caso concreto a resolver.
 
-Art. 12 inc. 2 del CC: "Las sentencias judiciales no tienen fuerza obligatoria, sino respecto de las causas en que actualmente se pronunciaren".
+[12i2 CC]: "Las sentencias judiciales no tienen fuerza obligatoria, sino respecto de las causas en que actualmente se pronunciaren".
 
-D08 08:55
-C) INTERPRETACIÓN DOCTRINARIA
+### 08:55 - D08 C) Interpretación doctrinaria
 
 Es la que realizan estudiosos del derecho, juristas y operadores jurídicos en general, no tienen fuerza vinculante.
 No es obligatoria.
 
-D09 10:57
-ESCUELAS DE INTERPRETACIÓN
+### 10:57 - D09 Escuelas de interpretación
 
-CLÁSICA O TRADICIONAL (MÉTODO EXEGÉTICO)
-HISTÓRICO - EVOLUTIVA
-MÉTODO LÓGICO SISTEMÁTICA
+Clásica o Tradicional (Método Exegético)
+Histórico - Evolutiva
+Método Lógico Sistemático
 
-D10 11:31
-A) CLÁSICA O TRADICIONAL (MÉTODO EXEGÉTICO)
+### 11:31 - D10 A) Clásica o Tradicional (Método Exegético)
 
 Busca interpretar cuál fue la voluntad del legislador.
 Pone énfasis en los elementos literales o gramaticales del texto de la norma.
 
 Si la ley es
+
 - clara: no se puede eludir la letra
 - oscura: podrá recurrirse a medios auxiliares como ser trabajos preparatorios de la ley, exposición de motivos, discusiones parlamentarias, etc.
 
-D11 12:30
-B) HISTÓRICO-EVOLUTIVA
+### 12:30 - D11 B) Histórico-Evolutiva
 
 Los preceptos legales deben ser transformados por el intérprete dentro de ciertos límites, para ponerlos en armonía con las circunstancias imperantes en el medio social.
+
 Interpretar es indagar, pero sin que ello implique derogar, argumentaban sus defensores. Al modificarse las condiciones sociales, el intérprete debe aplicar la norma consultando la realidad social entonces existente.
 
-D12 14:56
-C) MÉTODO LÓGICO SISTEMÁTICO
+### 14:56 - D12 C) Método Lógico Sistemático
 
 La Ley se independiza de la voluntad del legislador que la creó.
+
 Predomina el análisis lógico de los textos, pero se podría explorar otras rutas que quizás ni siquiera fueron tenidas en cuenta por los creadores de la norma.
-Límite: no puede resultar contradictorio con el resto de las disposiciones del cuerpo normativo y del instituto jurídico de que se trate.
 
-D13 16:55
-INTEGRACION
+**Límite:** no puede resultar contradictorio con el resto de las disposiciones del cuerpo normativo y del instituto jurídico de que se trate.
 
-D14 17:14
-INTEGRACION
-CONCEPTO
+## 16:55 - D13 Integración
+
+### 17:14 - D14 Integración - Concepto
 
 La Ley tiene lagunas, no es perfecta.
+
 Tendrá lugar cuando una cuestión no puede resolverse ni por las palabras o el espíritu de la ley.
 
-D15 18:41
-REGULACIÓN JURÍDICA
+### 18:41 - D15 Regulación jurídica
 
-Art. 15 CC: Los jueces no pueden dejar de fallar en materia civil, a pretexto de silencio, oscuridad o insuficiencia de las leyes.
-Art. 16 CC: "Cuando ocurra un negocio civil, que no pueda resolverse por las palabras ni por el espíritu de la ley de la materia, se acudirá a los fundamentos de las leyes análogas; y si todavía subsistiere la duda, se ocurrirá a los principios generales del derecho y a las doctrinas más recibidas, consideradas las circunstancias del caso"
+[15 CC]: Los jueces no pueden dejar de fallar en materia civil, a pretexto de silencio, oscuridad o insuficiencia de las leyes.
 
-D16 20:14
-MECANISMOS DE INTEGRACIÓN
+[16 CC]: "Cuando ocurra un negocio civil, que no pueda resolverse por las palabras ni por el espíritu de la ley de la materia, se acudirá a los fundamentos de las leyes análogas; y si todavía subsistiere la duda, se ocurrirá a los principios generales del derecho y a las doctrinas más recibidas, consideradas las circunstancias del caso"
 
-ANALOGÍA: Consiste en atribuir a situaciones parcialmente similares (una prevista y otra no prevista por la Ley), las consecuencias jurídicas indicadas para el caso que el legislador tuvo en cuenta. No se aplica en materia penal ni tributaria.
+### 20:14 - D16 Mecanismos de Integración
 
-PRINCIPIOS GENERALES DEL DERECHO: Son las bases o pilares fundamentales de un sistema jurídico. Ej.: principio de igualdad ante las normas.
+**Analogía:** Consiste en atribuir a situaciones parcialmente similares (una prevista y otra no prevista por la Ley), las consecuencias jurídicas indicadas para el caso que el legislador tuvo en cuenta. No se aplica en materia penal ni tributaria.
 
-DOCTRINA MÁS RECIBIDA: Son las opiniones de los especialistas más seguidas de una determinada rama del derecho.
+**Principios Generales del Derecho:** Son las bases o pilares fundamentales de un sistema jurídico.
+Ejemplo: principio de igualdad ante las normas.
 
-D17 27:11
-APLICACIÓN DE LA LEY EN EL TIEMPO
+**Doctrina más recibida:** Son las opiniones de los especialistas más seguidas de una determinada rama del derecho.
 
-D18 27:14
-CONCEPTO
+## 27:11 - D17 Aplicación de la Ley en el tiempo
 
-PRINCIPIO DE IRRETROACTIVIDAD (Art. 7 del CC)
+### 27:14 - D18 Concepto
+
+**Principio de Irretroactividad [7 CC]**
 
 Las leyes no deben ser retroactivas
 

@@ -1,0 +1,31 @@
+**Video 09**
+# Forma y prueba de los actos jurídicos
+
+### 00:56 - Inicio
+
+### 01:54 - Consensualidad
+[1247, 1261 CC]
+
+### 03:00 - Solemnidad
+
+- Excepción a la consensualidad
+- Donación, compraventa, permuta
+
+### Hipoteca [2323 CC]
+
+### 07:35 Repaso
+
+### 08:19
+- Los actos jurídicos en nuestro ordenamiento nacen con los requisitos dados por el [1261 CC]
+
+### 10:10 Requisitos de prueba
+
+### 13:35 Requisitos de publicidad
+
+- Publicidad declarativa
+- Publicidad constitutiva
+- Publicidad noticia
+
+- Registros públicos
+
+Fin de video aproximadamente en 21:00

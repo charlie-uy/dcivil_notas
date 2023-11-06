@@ -48,14 +48,32 @@
     </ul>
 </ul>
 
-### 05:43 D06
+## 05:43 D06 Clasificación de sujetos según su capacidad
 
- 
+### 05:49 D07 Clasificación
 
-### 0: D0
+**Capaces plenos o absolutos**
 
-### 0: D0
+- Mayores de 18 años que no padecen alteraciones mentales, ni son sordomudos que no pueden darse a entender por escrito ni por lenguaje de señas.
 
-### 0: D0
+**Capaces limitados**
 
-### 0: D1
+- Menores púberes casados, viudos o divorciados [305 CC]
+
+##### 06:54 D08 continuación
+
+**Incapaces relativos**
+
+<ul>
+    <li>Menores púberes solteros</li><br/>
+    <li>Negocio jurídico celebrado por incapaz relativo sin la debida representación: será relativamente nulo. Sin embargo se les reconoce ciertas capacidades especiales:</li>
+    <ul>
+        <li>Capacidad atenuada: contraer matrimonio [91, 105-110 CC], otorgar capitulaciones matrimoniales entre otros</li>
+        <li>Capacidad plena: para reconocer hijos extramatrimoniales [30 CNA], disponer por testamento [831o1, 265 CC] entre otros</li>
+    </ul>
+</ul>
+
+**Incapaces absolutos**
+
+- Impúberes, dementes y las personas sordomudas que no puedan darse a entender por escrito ni mediante lenguaje de señas.
+- Negocio jurídico celebrado por incapaz absoluto sin la debida representación: será absolutamente nulo del mismo.

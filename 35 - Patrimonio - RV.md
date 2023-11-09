@@ -1,4 +1,4 @@
-**Video 30**
+**Video 35**
 
 # Patrimonio
 
@@ -77,4 +77,62 @@ Fungibilidad, porque pueden reducirse a expresión monetaria
 
 [472 CC] derecho real es el que tenemos en una cosa o contra una cosa sin relación a persona determinada. Derecho en la cosa supone dominio o desmembramiento del dominio
 
-### : - D1
+### : - D10 Derechos reales
+
+**Desmembramiento del dominio o derechos reales de goce, confiere derecho de goce a su titular sobre cosa ajena**
+
+**Derechos contra la cosa, derechos reales de garantía**
+
+El dominio de descompone: derecho usar, obtener frutos y derecho a disponer jurídicamente y materialmente del bien
+
+### : - D11 Derechos reales limitados
+
+- Derechos sobre cosa ajena
+- Limitados
+- Limitantes de la propiedad
+- Limitados temporalmente
+
+### : - D12 Caracteres de los derechos reales
+
+**Absolutez**. 
+
+Acciones que amparan: Acciones restitutorias, inhibitorias, reparatorias.
+
+**Inherencia**, derecho de persecución
+
+**Inmediatez**, los derechos personales son mediatos
+
+**Preferencia** [Ley 18.387]
+
+**Impera el orden público**
+
+
+### : - D13 Derecho de superficie
+
+[Ley 18.308] derecho real de superficie
+Artículo 36
+ 
+- Solemnidad, escritura pública
+- Inscripción registral
+- Título y modo
+
+## : - D14 Bienes considerados en si mismos
+
+### : - D15 Bien o cosa [460 CC]
+
+- Tiene una medida de valor
+- Puede ser objeto de propiedad
+- Corporales o incorporales
+
+#### Caracteres de la cosa
+
+- Extrañeza al sujeto
+- Relevancia jurídica
+- Posibilidad de individualización
+- Debe tener medida de valor
+
+### : - D16 Derechos reales
+
+- En la cosa: Dominio o Desmembramiento del dominio (usufructo, uso, habitación y servidumbre)
+- Contra la cosa, hipoteca y prenda
+- Derechos personales

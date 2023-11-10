@@ -1,40 +1,41 @@
 **Video 35**
 
+*Avance 28:10*
+
 # Patrimonio
 
 ## 00:00 - D01 Patrimonio - Introducción
 
-
-### : - D02 Naturaleza jurídica - Doctrina clásica
+### 02:31 - D02 Naturaleza jurídica - Doctrina clásica
 
 El patrimonio es la personalidad del hombre en sus relaciones con los objetos del mundo exterior, sobre los cuales puede o tendrá derechos a ejercitar. **Aubry y Rau**
 
 - Poder jurídico
 - No lo integran las cosas sino los derechos
 
-### : - D03 Consecuencias
+### 05:10 - D03 Consecuencias
 
 **Solo personas físicas o jurídicas pueden tener patrimonio**
 
 Toda persona tiene necesariamente un patrimonio.
 
-Excepciones: 
+**Excepciones:** 
 
 - Beneficio de inventario  [1055, 1078, 1092 CC]
 - Beneficio de separación [1181 CC] 
-- Posesión definitiva bienes del ausente [71 CC]
+- Posesión definitiva de bienes del ausente [71 CC]
 
 Es inalienable
 
 Persona tiene derecho de propiedad sobre patrimonio
 
-### : - D04 Doctrina alemana. Brinz y Beker
+### 10:14 - D04 Doctrina alemana. Brinz y Beker
 
 **No existe vínculo entre personalidad y patrimonio.**
 
 Doctrina de los patrimonios de afectación. Fideicomiso [Ley 17.703]
 
-### : - D05 Doctrina del patrimonio de afectación
+### 11:50 - D05 Doctrina del patrimonio de afectación
 
 **No hay vinculación entre personalidad y patrimonio**
 
@@ -44,7 +45,7 @@ Un mismo sujeto con varios patrimonios
 
 [Ley 17703] negocio jurídico en el que se destinan determinados derechos de propiedad, reales y personales a la administración de un sujeto, fiduciario, en base a instrucciones que establece el fideicomitente
 
-### : - D06 Código Civil
+### 12:23 - D06 Código Civil
 
 Recibe la doctrina de Aubry y Rau
 
@@ -52,7 +53,7 @@ Continuidad de la personalidad del causante por sus herederos
 
 La inalienabilidad del patrimonio por acto entre vivos
 
-### : - D07 Composición del patrimonio
+### 15:14  - D07 Composición del patrimonio
 
 **Derechos y obligaciones, vinculación jurídica que la persona tiene con la cosa**
 
@@ -61,7 +62,7 @@ Tienen un valor económico
 Fungibilidad, porque pueden reducirse a expresión monetaria
 
 
-### : - D08 Caracteres de derechos patrimoniales
+### 18:04 - D08 Caracteres de derechos patrimoniales
 
 - Transmisibilidad entre vivos por enajenación
 - Transmisibilidad mortis causa
@@ -69,7 +70,7 @@ Fungibilidad, porque pueden reducirse a expresión monetaria
 - Lo integran bienes apreciables pecuniariamente
 - Pasivo y Activo
 
-### : - D09 Derechos reales y personales
+### 21:53 - D09 Derechos reales y personales
 
 **Todo derecho subjetivo implica una relación entre sujetos.**
 
@@ -77,7 +78,7 @@ Fungibilidad, porque pueden reducirse a expresión monetaria
 
 [472 CC] derecho real es el que tenemos en una cosa o contra una cosa sin relación a persona determinada. Derecho en la cosa supone dominio o desmembramiento del dominio
 
-### : - D10 Derechos reales
+### 23:35 - D10 Derechos reales
 
 **Desmembramiento del dominio o derechos reales de goce, confiere derecho de goce a su titular sobre cosa ajena**
 
@@ -85,7 +86,7 @@ Fungibilidad, porque pueden reducirse a expresión monetaria
 
 El dominio de descompone: derecho usar, obtener frutos y derecho a disponer jurídicamente y materialmente del bien
 
-### : - D11 Derechos reales limitados
+### 28:10 - D11 Derechos reales limitados
 
 - Derechos sobre cosa ajena
 - Limitados

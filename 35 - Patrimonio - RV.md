@@ -1,7 +1,5 @@
 **Video 35**
 
-*Avance 28:10*
-
 # Patrimonio
 
 ## 00:00 - D01 Patrimonio - Introducción
@@ -93,7 +91,7 @@ El dominio de descompone: derecho usar, obtener frutos y derecho a disponer jur�
 - Limitantes de la propiedad
 - Limitados temporalmente
 
-### : - D12 Caracteres de los derechos reales
+### 29:40 - D12 Caracteres de los derechos reales
 
 **Absolutez**. 
 
@@ -108,18 +106,24 @@ Acciones que amparan: Acciones restitutorias, inhibitorias, reparatorias.
 **Impera el orden público**
 
 
-### : - D13 Derecho de superficie
+### 33:31 - D13 Derecho de superficie
 
-[Ley 18.308] derecho real de superficie
+[Ley 18.308] Derecho real de superficie
 Artículo 36
  
 - Solemnidad, escritura pública
 - Inscripción registral
 - Título y modo
 
-## : - D14 Bienes considerados en si mismos
 
-### : - D15 Bien o cosa [460 CC]
+
+
+----------
+
+
+## 34:53 - D14 Bienes considerados en si mismos
+
+### 35:16 - D15 Bien o cosa [460 CC]
 
 - Tiene una medida de valor
 - Puede ser objeto de propiedad
@@ -132,7 +136,7 @@ Artículo 36
 - Posibilidad de individualización
 - Debe tener medida de valor
 
-### : - D16 Derechos reales
+### 38:30 - D16 Derechos reales
 
 - En la cosa: Dominio o Desmembramiento del dominio (usufructo, uso, habitación y servidumbre)
 - Contra la cosa, hipoteca y prenda

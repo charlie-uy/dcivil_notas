@@ -45,8 +45,8 @@ Doctrina, solo las que tienen una medida de valor y pueden ser apropiadas por el
 
 - Inmuebles por naturaleza [463 CC]
 - Inmuebles por adhesión o pendencia [464 CC]
-- Inmuebles por destino 465
-- Inmuebles por accesión 467
+- Inmuebles por destino [465 CC]
+- Inmuebles por accesión [467 CC]
 
 ### 17:09 - D09 Muebles
 
@@ -61,28 +61,28 @@ Doctrina, solo las que tienen una medida de valor y pueden ser apropiadas por el
 
 **Derecho personal**, [473 CC] son los que solo pueden reclamarse de ciertas personas, que por un hecho suyo o la sola disposición de la ley han contraído las obligaciones contraídas
 
-##### : - D11 continuación
+##### 20:20 - D11 continuación
 
 - Por la naturaleza del objeto, el derecho real tiene siempre por objeto una cosa, mientras que el derecho personal tiene por objeto un hecho o la abstención de un hecho
 - La duración del derecho, el real tiene a persistir, en cambio el personal tiende a desaparecer
 - Los derechos reales pueden ser adquiridos por prescripción, en cambio los personales no
 - El derecho de persecución característico de los derecho reales
 
-### : - D12 Derechos en la cosa y contra la cosa. [472 CC]
+### 21:50 - D12 Derechos en la cosa y contra la cosa. [472 CC]
 
 Derechos en la cosa, son el derecho de propiedad y los derechos que se constituyen por desmembramiento de las facultades que integran el primero, usufructo, uso, habitación y las servidumbres.
 
 Los derechos reales contra la cosa, son los derechos de garantía como la prenda y la hipoteca.
 
-## : - D13 Bienes en relación con sus titulares
+## 23:38 - D13 Bienes en relación con sus titulares
 
-### : - D14 Propiedad nacional y particular [476 CC]
+### 23:47 - D14 Propiedad nacional y particular [476 CC]
 
 - Bienes nacionales de uso público o bienes públicos [477 CC], fuera del comercio de los hombres 
 - Enumeración [478 CC]
 - Bienes privados del Estado o bienes fiscales [481, 482, 483 CC], se equiparan con los privados
 
-### : - D15 Caracteres de los bienes públicos
+### 24:31 - D15 Caracteres de los bienes públicos
 
 - Propiedad del Estado
 - Requiere ley que lo establezca como tal, igual que su desafectación
@@ -90,7 +90,7 @@ Los derechos reales contra la cosa, son los derechos de garantía como la prenda
 - Inalienables e imprescriptibles
 - Inembargables
 
-### : - D16 Bienes Fiscales
+### 25:30 - D16 Bienes Fiscales
 
 - Criterio residual, aquellos que son propiedad del Estado y no son bienes públicos [485 CC]
 - Uso pertenece a todos los habitantes del Estado [477i2 CC]

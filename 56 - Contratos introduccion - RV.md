@@ -29,7 +29,6 @@ Partes integrantes de la estructura obligatoria
 
 * Salta a la diapositiva 26*
 
-
 ## D26 - 09:15  Contratos
 
 ### D27 - 12:03 Concepto
@@ -52,28 +51,21 @@ Caracteres:
 - Principio de buena fe, comportamiento leal [1291 CC]
 - Principio de relatividad del contrato
 
-### D29 - : Clasificación
+### D29 - 31:19 Clasificación
 
-- En razón de las personas obligadas por el contrato 
+- En razón de las personas obligadas por el contrato [1248 CC]: unilaterales y bilaterales o sinalagmáticos
+- En función de la utilidad que generan: onerosos y gratuitos.
+- **Onerosos:** conmutativos y aleatorios: [2167 CC] seguros, préstamo a la gruesa, juego o apuesta y renta vitalicia.
+- [1251 CC] Contratos principales y accesorios
+- [1252 CC] Consensuales y solemnes, reales
+- [1260 CC] Nominados e innominados
+- De ejecución instantánea o sucesiva
 
-### D30 - :
+### D30 - 38:06 Formación de los contratos
 
-### D31 - :
+- Período precontractual, el que precede al perfeccionamiento del contrato.
+- Tratativas, invitación a contratar, oferta o propuesta y aceptación.
+- Propuesta, manifestación de voluntad unilateral y recepticia donde propone la celebración de un negocio jurídico, de manera que si el destinatario la acepta, el negocio queda perfeccionado.
+- Aceptación, declaración de voluntad unilateral y recepticia por medio de la cual el destinatario de una oferta responde afirmativamente quedando perfeccionado el contrato.
 
-### D32 - :
-
-### D33 - :
-
-### D34 - :
-
-### D35 - :
-
-### D36 - :
-
-### D37 - :
-
-### D38 - :
-
-### D39 - :
-
-### D40 - :
+*Fin del video*

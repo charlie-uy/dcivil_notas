@@ -11,13 +11,24 @@
 - Nulidades no extinguen, destruye la fuente de la cual nace.
 - Modos voluntarios, destinados a ello, ejemplo pago, e involuntarios, no buscan deliberadamente la extinción, pero ocurre hecho o acto que lo produce, ejemplo: prescripción.
  
-0:10:16 - D03 - Pago
+### 0:10:16 - D03 - Pago
 
-Realización por parte del deudor de la prestación 
+Realización por parte del deudor de la prestación a que se encontraba obligado [1448 CC], hecho material, prestación de un servicio, la entrega de una cosa o una omisión, en caso de obligaciones de no hacer.
 
+- Legitimados, el deudor [1450 CC] es no solo un deber sino un derecho, tiene derecho a liberarse de su obligación, por fallecimiento la obligación pasa a sus herederos. Si el acreedor no quiere recibir el pago: oblación y consignación.
+- Pueden pagar terceros, codeudor o fiador quien garantiza el pago del deudor. La obligación se mantiene con el fiador.
 
-0:16:15 D04 - Legitimados para recibir el pago
+### 0:16:15 - D04 - Legitimados para recibir el pago
 
+**Acreedor, herederos a titulo universal o singular, herederos y cesionarios y sus representantes legales o voluntarios [1453 CC]**
+
+- [1457 CC] pago mal hecho, no extingue la deuda
+- [1455 CC] pago a persona diferente al acreedor extingue cuando se paga de buena fe al poseedor de un crédito
+
+**Objeto del pago**
+
+- [1458 CC] es la cosa debida, solo puede cancelarse la deuda con otra cosa cuando exista consentimiento del acreedor. Principio de la identidad.
+- Principio de integridad [1459 CC] el deudor no puede obligar al acreedor a recibir por partes el pago de una deuda, aunque sea divisible.
 
 0:23:55 D05 - Lugar
  

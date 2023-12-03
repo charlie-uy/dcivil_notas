@@ -37,6 +37,17 @@
 - 46 - OK
 - 56 - OK
 - 59 - OK
+- 61 - P
+- 62 - P
+- 63 - P
+- 65 - N/A
+- 66 - P
+- 67 - P
+- 68 - P
+- 69 - P
+- 70 - P
+- 72 - P
+- 75 - En proceso
 - 76 - Revisar
 - 77 - Revisar
 - 81 - OK
